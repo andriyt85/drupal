@@ -56,23 +56,6 @@ a.mainlogo:hover {
 
 /*=================== /content ================*/
 
-/*=================== INDEX4 ================*/
-
-#map {
-	height: 300px;
-	width: 100%;
-	overflow: hidden;
-	transition: all 0.3s ease-out 0s;
-	background: #333 none repeat scroll 0% 0%;
-	position: relative;
-}
-.i4_navbar {
-	margin-bottom: 0px;
-}
-
-
-/*=================== /INDEX4 ================*/
-
 
 
 /*----------------SERVICES.HTML STARTS HERE---------*/
@@ -498,6 +481,7 @@ a.mainlogo:hover {
 	transition: all 0.3s ease-out 0s;
 	background: #333 none repeat scroll 0% 0%;
 	position: relative;
+	border: 1px solid #CCC;
 }
 .i4_navbar {
 	margin-bottom: 0px;
@@ -585,7 +569,7 @@ a.mainlogo:hover {
 	width: 50%;
 	position: relative;
 	margin: 0 auto;
-	top: -15px;
+	top: -9px;
 	z-index: 100;
 	background-color: #454647;
 	margin-bottom: -67px;
@@ -643,23 +627,33 @@ a.mainlogo:hover {
 	font-size: 21px;
 	font-weight: bold;
 }
+
 .i4_location ul,.i4_location li {
+
 	list-style: outside none none;
 	text-align: left;
 	margin-left: 25%;
 	padding-left: 25px;
 }
+.i4_adress li {
+	list-style: outside none none;
+	text-align: left;
+	margin-left: 25%;
+	padding-left: 25px;
+}
+
+
 li.i4_location {
-	background: transparent url("../img/icon-marker.png") no-repeat;
+	background: transparent url("http://durpal-final-andriyt85.c9users.io/sites/default/files/styles/thumbnail/public/2016-06/icon-marker.png?itok=MGHM9qZZ") no-repeat;
 }
 li.i4_tel {
-	background: transparent url("../img/icon-tel.png") no-repeat;
+	background: transparent url("http://durpal-final-andriyt85.c9users.io/sites/default/files/styles/thumbnail/public/2016-06/icon-tel.png?itok=FRx0dhC8") no-repeat;
 }
 li.i4_fax {
-	background: transparent url("../img/icon-fax.png") no-repeat;
+	background: transparent url("http://durpal-final-andriyt85.c9users.io/sites/default/files/styles/thumbnail/public/2016-06/icon-fax.png?itok=PSDniyhM") no-repeat;
 }
 li.i4_email {
-	background: transparent url("../img/icon-mail.png") no-repeat;
+	background: transparent url("http://durpal-final-andriyt85.c9users.io/sites/default/files/styles/thumbnail/public/2016-06/icon-mail.png?itok=BQec7DXb") no-repeat;
 }
 
 .i4_panel-default {
@@ -709,6 +703,50 @@ li.i4_email {
    
     }
 }
+.i4_nav_background {
+	background-color: #EFEFEF;
+}
+.i4_main_nav {
+	text-align: center;
+	font-size: 30px;
+	margin: 20px;;
+}
+.i4_main_nav a {
+	font-family: Lato,sans-serif !important;
+	font-size: 20px;
+	color: #6F6F6F !important;
+	font-weight: bold;
+	margin: 15px;
+}
+.i4_main_nav a:hover {
+	text-decoration: none;
+	text-shadow: 1px 1px 3px #ADADA5;
+}
+.i4_mainlogo {
+	font-size: 32px !important;
+	text-shadow: 1px 1px 3px #999998;
+}
+.i4_footer {
+	height: 20%;
+	background-color: #20324E;
+	color: white;
+	font-family: Lato,sans-serif !important;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 10px;
+}
+.i4_footer p {display: inline;}
+
+.i4_mainsocial1 {
+	height: 40px;
+	padding: 3px;
+}
+.i4_mainsocial1  a{
+	
+	padding: 7px;
+}
+	
+
 /*=================== /INDEX4 ================*/
 
 /*=================== /INDEX ================*/
