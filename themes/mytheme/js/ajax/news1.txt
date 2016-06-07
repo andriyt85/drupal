@@ -1,0 +1,56 @@
+<article class="col-xs-12 col-md-12">
+    <div class="row">
+        <div class="infirst">
+			<div id="myOwnChanger" class="carousel slide" data-ride="carousel">
+			  <!-- Indicators -->
+			  <ol class="carousel-indicators">
+			    <li data-target="#myOwnChanger" data-slide-to="0" class="active"></li>
+			    <li data-target="#myOwnChanger" data-slide-to="1"></li>
+			    
+			  </ol>
+
+			  <!-- Wrapper for slides -->
+			  <div class="carousel-inner" role="listbox">
+			    <div class="item active">
+			      <img src="img/hardkiss1.jpg" alt="Landscape">
+			    </div>
+
+			    <div class="item">
+			      <img src="img/hardkiss2.jpg" alt="Landscape">
+			    </div>
+			  </div>
+
+			  <!-- Left and right controls -->
+			  <a class="left carousel-control" href="#myOwnChanger" role="button" data-slide="prev">
+			    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			    <span class="sr-only">Previous</span>
+			  </a>
+			  <a class="right carousel-control" href="#myOwnChanger" role="button" data-slide="next">
+			    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			    <span class="sr-only">Next</span>
+			  </a>
+			</div>
+			<p class="col-xs-12 col-md-12" style="text-indent:15px; padding: 10px;"><strong>Тільки цієї суботи в нашому готелі відбудеться
+			закритий концерт
+			українського гурту The Hardkiss. Оригінальні, неповторні і завжди непередбачувані
+			так охарактеризувати можна тільки їх. Буде приголомшливий перформанс, найяскравіші
+			образи, нові прем’єри і всі улюблені хіти The HARDKISS! У виконанні Юлії Саніної і
+			її чудової команди ви почуєте композиції, які стали легендами: «Stones», «Organ»,
+			«Tony, Talk!», «Make-Up»  та багато інших.</strong></p>
+			<p class="col-xs-12 col-md-12"><strong>З 2011 року і донині The HARDKISS є однією з найяскравіших зірок на музичному
+			небокраї, яку, між іншим, підкорили не тільки свою рідну країну, але і багато інших. Вони
+			співпрацювали з британцями і французами, скоряли бразильські танцполи і французькі
+			фестивалі, брали штурмом російські хіт-паради, де з легкістю обходили всіх конкурентів. 
+            Відкриття, бренд, рідкісна коштовність, нове слово в музиці – які тільки
+            епітети не супроводжували їхню унікальну творчість! Які тільки захоплені відгуки не
+            виходять з-під пера журналістів й інших критиків, що коментують черговий кліп і альбом
+            чудової групи. Кожний новий концерт групи The HARDKISS – це приголомшливий коктейль з
+            інгредієнтами екстра-класу. Потужне звучання, неймовірний драйв,
+            божевільні емоції і неординарні сценічні образи, створенню яких приділяється особлива увага.
+            Світ The HARDKISS – це безодня, куди варто потрапити хоча б раз. Адже потім вона вже не
+            відпустить – якщо, звичайно, ви - справжній меломан, для якого почуття і адреналін не 
+            потребують перекладу. 
+			</strong></p>
+		</div>
+    </article>
+</div>
