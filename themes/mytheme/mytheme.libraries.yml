@@ -1,0 +1,13 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+news:
+  css:
+    theme:
+      css/news.css: {}
+      
+news:
+  js:
+    js/news.js: {}
+  
