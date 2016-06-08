@@ -6,8 +6,32 @@ news:
   css:
     theme:
       css/news.css: {}
+booking:
+  css:
+    theme:
+      css/style2.css: {}
+      
+rooms:
+  css:
+    theme:
+      css/set2.css: {}
+      
+bookingjs:
+  js:
+    booking.js: {}
       
 news:
   js:
     js/news.js: {}
   
+contacts:
+  js:
+    js/script.js: {}
+# Google maps
+gmaps:
+  js:
+    https://maps.google.com/maps/api/js?key=AIzaSyCJalKgnOv4NhLV_RnSYmbqamTlnR8a7t8: {type: external, minified: true}
+    js/gmaps.js: {}
+    js/mymap.js: {}
+  dependencies:
+    - bootstrap/theme

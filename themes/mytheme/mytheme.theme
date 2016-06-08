@@ -10,5 +10,26 @@ function mytheme_preprocess_page(&$variables) {
       if ($variables['node']->id() === "8") {
         $variables['#attached']['library'][] = 'mytheme/news';
       }
+      if ($variables['node']->id() === "10") {
+        $variables['#attached']['library'][] = 'mytheme/news';
+      }
+      if ($variables['node']->id() === "11") {
+        $variables['#attached']['library'][] = 'mytheme/news';
+      }
+      if ($variables['node']->id() === "12") {
+        $variables['#attached']['library'][] = 'mytheme/news';
+      }
+      if ($variables['node']->id() === "13") {
+        $variables['#attached']['library'][] = 'mytheme/news';
+      }
+      if ($variables['node']->id() === "14") {
+        $variables['#attached']['library'][] = 'mytheme/gmaps';
+      }
+      if ($variables['node']->id() === "16") {
+        $variables['#attached']['library'][] = 'mytheme/booking';
+      }
+      if ($variables['node']->id() === "17") {
+        $variables['#attached']['library'][] = 'mytheme/rooms';
+      }
     }
 }

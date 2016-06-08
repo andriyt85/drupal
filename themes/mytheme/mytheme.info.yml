@@ -21,3 +21,5 @@ regions:
 
 libraries:
   - 'mytheme/global-styling'
+  - 'mytheme/contacts'
+  - 'myTheme/bookingjs'

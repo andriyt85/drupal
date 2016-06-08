@@ -751,5 +751,15 @@ li.i4_email {
 
 /*=================== /INDEX ================*/
 
+/*=================== /INDEX2 ================*/
 
+.container1 {
+	background: #2f3238;
+	color: #fff;
+	width: 100%;
+	font-weight: 400;
+	font-size: 1,25em;
+	font-family: 'Raleway', Arial, sans-serif;
+	border: 3px solid grey;
+}
 
